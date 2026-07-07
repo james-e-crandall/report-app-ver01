@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="report-app.AppHost/report-app.AppHost.csproj" />
+  <Project Path="report-app.ServiceDefaults/report-app.ServiceDefaults.csproj" />
+</Solution>
