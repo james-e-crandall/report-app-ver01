@@ -1,4 +1,11 @@
 <Solution>
   <Project Path="report-app.AppHost/report-app.AppHost.csproj" />
   <Project Path="report-app.ServiceDefaults/report-app.ServiceDefaults.csproj" />
+  <Project Path="ScheduleLib.MigrationService/ScheduleLib.MigrationService.csproj" />
+  <Project Path="ScheduleLib.Tests/ScheduleLib.Tests.csproj" />
+  <Project Path="ScheduleLib/ScheduleLib.csproj" />
+  <Project Path="ScheduleService/ScheduleService.csproj" />
+  <Project Path="UserLib.MigrationService/UserLib.MigrationService.csproj" />
+  <Project Path="UserLib.Tests/UserLib.Tests.csproj" />
+  <Project Path="UserLib/UserLib.csproj" />
 </Solution>
